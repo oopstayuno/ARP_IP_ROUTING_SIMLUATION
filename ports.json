@@ -1,0 +1,12 @@
+{
+    "ROUTER_1": {
+      "PORT_NO": 5082
+    },
+    "ROUTER_2": {
+      "PORT_NO": 3042
+    },
+    "NODE_A": {
+      "PORT_NO": 2062
+      
+    }
+  }
